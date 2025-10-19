@@ -35,7 +35,8 @@ I'm focused on building AI-powered web apps & learning advanced backend systems.
 </p>
 
 
-## ⚙️ Tech Stack  <img src="stats.gif">
+## ⚙️ Tech Stack 
+ <img src="stats.gif" style="height:50px width:50px">
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,html,css,js,react,git,github,vscode,linux" alt="Tech Stack Icons" />
 </p>
