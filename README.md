@@ -113,9 +113,3 @@
   </blockquote>
 </div>
 
-<style>
-  .hover-zoom:hover {
-    transform: scale(1.1);
-    transition: transform 0.3s;
-  }
-</style>
