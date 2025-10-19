@@ -45,21 +45,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanmay090808&theme=tokyo-night&hide_border=true&area=true" alt="Tanmay's Activity Graph" width="100%" />
   </p>
 </div>
-
-<!-- Projects 
-<div align="center" style="margin-top: 50px; padding: 30px; border-radius: 20px; background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); box-shadow: 0 8px 30px rgba(0,0,0,0.2); border: 1px solid rgba(255,255,255,0.2);">
-  <h2 style="color:#00c6ff;">💻 Projects</h2>
-  <p style="margin-top: 15px;">
-    <a href="https://github.com/tanmayghadge/project1" target="_blank">
-      <img src="https://img.shields.io/badge/Project1-Python-blue?style=for-the-badge" alt="Project 1" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/tanmayghadge/project2" target="_blank">
-      <img src="https://img.shields.io/badge/Project2-FastAPI-orange?style=for-the-badge" alt="Project 2" />
-    </a>
-  </p>
-</div>
--->
 <!-- Currently Learning -->
 <div align="center" style="margin-top: 50px; padding: 30px; border-radius: 20px; background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); box-shadow: 0 8px 30px rgba(0,0,0,0.2); border: 1px solid rgba(255,255,255,0.2);">
   <h2 style="color:#00c6ff;">🧠 Currently Learning</h2>
