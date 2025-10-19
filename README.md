@@ -58,11 +58,11 @@ I'm focused on building AI-powered web apps & learning advanced backend systems.
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:tanmayghadge@example.com">
+  <a href="mailto:tanmayghadge09tg@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://github.com/tanmayghadge">
+  <a href="https://github.com/tanmay090808">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   </a>
 </p>
