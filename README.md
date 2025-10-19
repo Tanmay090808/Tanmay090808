@@ -33,9 +33,9 @@ Hi, I'm <b>Tanmay Ghadge</b> — a passionate developer from India 🇮🇳<br/>
 I'm focused on building AI-powered web apps & learning advanced backend systems.<br/>
 🔥 I love solving problems, automating workflows, and experimenting with new tech stacks.
 </p>
----
 
-## ⚙️ Tech Stack
+
+## ⚙️ Tech Stack  <img src="stats.gif">
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,html,css,js,react,git,github,vscode,linux" alt="Tech Stack Icons" />
 </p>
