@@ -22,7 +22,10 @@
   <img src="profileimg.jpg" width="150" style="border-radius:50%; border: 4px solid #00c6ff;" alt="Tanmay Ghadge Profile Photo" />
 </p>
 
----
+<!-- gradient -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="70%" alt="gradient line" />
+</p>
 
 ## 💫 About Me
 <p align="center">
