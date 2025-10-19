@@ -1,8 +1,4 @@
 
-
-<!-- 🧠 Designed by ChatGPT for Tanmay Ghadge -->
-
-<!-- 🖼️ Banner Section -->
 <p align="center">
   <img src="banner-github.png" alt="Tanmay Ghadge Banner" width="100%" />
 </p>
@@ -27,7 +23,11 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="70%" alt="gradient line" />
 </p>
 
-## 💫 About Me
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=" 💫 About Me " alt="Typing SVG" />
+</h1>
+<!-- ##  About Me -->
 <p align="center">
 Hi, I'm <b>Tanmay Ghadge</b> — a passionate developer from India 🇮🇳<br/>
 I'm focused on building AI-powered web apps & learning advanced backend systems.<br/>
