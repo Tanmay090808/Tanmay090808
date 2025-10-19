@@ -1,10 +1,10 @@
-## Hi there 👋
+
 
 <!-- 🧠 Designed by ChatGPT for Tanmay Ghadge -->
 
 <!-- 🖼️ Banner Section -->
 <p align="center">
-  <img src="https://i.ibb.co/pzZnph3/developer-banner.png" alt="Tanmay Ghadge Banner" width="100%" />
+  <img src="banner-github.png" alt="Tanmay Ghadge Banner" width="100%" />
 </p>
 
 <!-- 👋 Animated Intro -->
